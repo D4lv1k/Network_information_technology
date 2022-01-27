@@ -1,0 +1,96 @@
+id,brand,model,year,price,distance,location,was_in_accident,img_url
+31958665,Audi,A6,2012,16900,295,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/audi_a6__435374137bx.jpg
+1871846,Mitsubishi,ASX,2021,21182,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-asx__1399637-341x224x60.jpg
+1864069,Mitsubishi,Outlander,2021,33960,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-outlander__1294847-341x224x60.jpg
+1866165,Mitsubishi,Eclipse Cross,2021,33509,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-eclipse-cross__1327282-341x224x60.jpg
+1877990,Chery,Tiggo 7 Pro,2021,22200,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/chery-tiggo-7-pro__1436037-341x224x60.jpg
+32009584,Volvo,XC90,2004,10500,273,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/volvo_xc90__436405296bx.jpg
+31990050,ВАЗ,21214,2012,8700,144,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/vaz_21214__436134150bx.jpg
+31789750,Volkswagen,Golf IV,2001,3900,410,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/volkswagen_golf-iv__431399925bx.jpg
+31039469,Porsche,Cayenne,2008,14950,149,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/porsche_cayenne__414308597bx.jpg
+31894075,ВАЗ,2110,2010,2650,281,Чернівці,false,https://cdn3.riastatic.com/photosnew/auto/photo/vaz_2110__433851633bx.jpg
+1866329,Mitsubishi,ASX,2021,21425,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-asx__1331209-341x224x60.jpg
+31736888,BMW,528,2010,13700,260,Чернівці,true,https://cdn0.riastatic.com/photosnew/auto/photo/bmw_528__430156965bx.jpg
+1878068,Chery,Tiggo 2 Pro,2021,15300,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/chery-tiggo-2-pro__1442386-341x224x60.jpg
+1866412,Chery,Tiggo 4,2021,15400,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/chery-tiggo-4__1442536-341x224x60.jpg
+1871170,Chery,Tiggo 4,2021,15400,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/chery-tiggo-4__1388281-341x224x60.jpg
+1877592,Chery,Tiggo 2,2021,11400,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/chery-tiggo-2__1333888-341x224x60.jpg
+32013617,Mercedes-Benz,Vito 116,2019,29800,53,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/mercedes-benz_vito-116__436501015bx.jpg
+31872370,Opel,Vivaro пасс.,2016,19750,97,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/opel_vivaro-pass__433377286bx.jpg
+31057743,Audi,A4,2005,8100,255,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/audi_a4__414721234bx.jpg
+1859020,Mitsubishi,Outlander,2021,23387,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-outlander__1189251-341x224x60.jpg
+1872782,Mitsubishi,Outlander,2021,23387,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-outlander__1413055-341x224x60.jpg
+1866348,Mitsubishi,Eclipse Cross,2021,33509,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-eclipse-cross__1331830-341x224x60.jpg
+1871152,Chery,Tiggo 7 Pro,2021,20400,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/chery-tiggo-7-pro__1387999-341x224x60.jpg
+1877546,Chery,Tiggo 2 Pro,2021,13900,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/chery-tiggo-2-pro__1440240-341x224x60.jpg
+1872410,Kia,Rio X,2022,18517,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/kia-rio-x__1419164-341x224x60.jpg
+1877829,Kia,Rio X,2022,17354,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/kia-rio-x__1433983-341x224x60.jpg
+31995341,Renault,Grand Scenic,2012,9600,186,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/renault_grand-scenic__436253342bx.jpg
+1869212,Chery,Tiggo 7 Pro,2021,21900,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/chery-tiggo-7-pro__1368459-341x224x60.jpg
+1858964,Mitsubishi,Outlander,2021,31807,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-outlander__1188126-341x224x60.jpg
+1867259,Mitsubishi,ASX,2021,27988,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-asx__1344402-341x224x60.jpg
+1864043,Mitsubishi,Outlander,2021,23821,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-outlander__1294556-341x224x60.jpg
+1866190,Mitsubishi,Outlander,2021,29481,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-outlander__1327800-341x224x60.jpg
+1872791,Mitsubishi,Outlander,2021,34099,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-outlander__1413255-341x224x60.jpg
+31949148,Volkswagen,Golf V,2009,7200,187,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/volkswagen_golf-v__435149457bx.jpg
+1869195,Chery,Tiggo 4,2021,15400,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/chery-tiggo-4__1368227-341x224x60.jpg
+31763812,Renault,Koleos,2008,9650,246,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/renault_koleos__430800901bx.jpg
+31680898,Mercedes-Benz,S 350,2010,21600,247,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/mercedes-benz_s-350__428868351bx.jpg
+31605599,Peugeot,807,2008,7750,320,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/peugeot_807__429339677bx.jpg
+32015407,Volkswagen,Golf Alltrack,2004,5600,190,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/volkswagen_golf-alltrack__436542807bx.jpg
+32013735,Toyota,Land Cruiser Prado 150,2011,29500,143,Чернівці,false,https://cdn3.riastatic.com/photosnew/auto/photo/toyota_land-cruiser-prado-150__436501278bx.jpg
+32013442,ВАЗ,2101,1977,700,111,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/vaz_2101__436495887bx.jpg
+32013308,ВАЗ,2106,1991,3700,45,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/vaz_2106__436495135bx.jpg
+31807011,Kia,Cerato,2009,6300,78,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/kia_cerato__431830786bx.jpg
+32010646,Audi,A6,2000,5550,340,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/audi_a6__436429892bx.jpg
+32008555,Opel,Vivaro пасс.,2009,13500,321,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/opel_vivaro-pass__436381567bx.jpg
+31431224,Mercedes-Benz,S 600,2005,9500,238,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/mercedes-benz_s-600__423187184bx.jpg
+31993251,BMW,X5,2010,20900,238,Чернівці,false,https://cdn3.riastatic.com/photosnew/auto/photo/bmw_x5__436209543bx.jpg
+31990342,Ford,Kuga,2010,12300,136,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/ford_kuga__436142984bx.jpg
+31826499,Fiat,Ducato пасс.,2016,20500,220,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/fiat_ducato-pass__436310436bx.jpg
+31638615,Volkswagen,Caddy груз.,2004,5300,244,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/volkswagen_caddy-gruz__435815299bx.jpg
+31980274,Infiniti,FX 35,2007,11900,259,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/infiniti_fx-35__435888681bx.jpg
+1859010,Mitsubishi,ASX,2021,27988,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-asx__1201950-341x224x60.jpg
+1859116,Mitsubishi,Pajero Sport,2021,40315,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-pajero-sport__1191124-341x224x60.jpg
+1860801,Mitsubishi,Outlander,2021,23821,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-outlander__1224985-341x224x60.jpg
+1871040,Mitsubishi,Eclipse Cross,2021,29654,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/mitsubishi-eclipse-cross__1386695-341x224x60.jpg
+31965303,Chevrolet,Captiva,2010,10950,224,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/chevrolet_captiva__435528590bx.jpg
+1865981,Chery,Tiggo 7 Pro,2021,21900,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/chery-tiggo-7-pro__1323039-341x224x60.jpg
+1871171,Chery,Tiggo 4,2021,15400,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/chery-tiggo-4__1263754-341x224x60.jpg
+1872349,Chery,Tiggo 7 Pro,2021,22200,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/chery-tiggo-7-pro__1404357-341x224x60.jpg
+31944063,Peugeot,206,2010,5700,154,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/peugeot_206__435037339bx.jpg
+31921474,Citroen,Berlingo пасс.,2012,8500,241,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/citroen_berlingo-pass__434493044bx.jpg
+31889357,Hyundai,Tucson,2011,11200,119,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/hyundai_tucson__433747207bx.jpg
+31854101,Kia,Sportage,2012,12954,145,Чернівці,true,https://cdn2.riastatic.com/photosnew/auto/photo/kia_sportage__432942127bx.jpg
+31835934,Volkswagen,Golf IV,1999,4400,120,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/volkswagen_golf-iv__432545482bx.jpg
+31792378,Mercedes-Benz,GL 350,2014,43500,200,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/mercedes-benz_gl-350__431471151bx.jpg
+32012418,Opel,Insignia,2013,13550,180,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/opel_insignia__436469344bx.jpg
+32010028,Fiat,500,2016,11300,64,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/fiat_500__436413800bx.jpg
+31126698,Skoda,Octavia A7,2014,12000,253,Чернівці,false,https://cdn3.riastatic.com/photosnew/auto/photo/skoda_octavia-a7__436144133bx.jpg
+31989558,Volkswagen,Golf VII,2014,12944,198,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/volkswagen_golf-vii__436124382bx.jpg
+31982144,Skoda,Superb,2010,10900,223,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/skoda_superb__435929879bx.jpg
+31767341,Mercedes-Benz,ML 300,2011,19999,300,Чернівці,false,https://cdn3.riastatic.com/photosnew/auto/photo/mercedes-benz_ml-300__430876853bx.jpg
+31956391,Mercedes-Benz,Vito 111,2010,10150,535,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/mercedes-benz_vito-111__435319216bx.jpg
+31948136,BMW,520,1991,2900,242,Чернівці,false,https://cdn3.riastatic.com/photosnew/auto/photo/bmw_520__435127948bx.jpg
+31949283,Hyundai,ix35,2011,12300,170,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/hyundai_ix35__435151842bx.jpg
+31943733,Volkswagen,Golf Plus,2005,6350,185,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/volkswagen_golf-plus__435026914bx.jpg
+31736585,Mercedes-Benz,S 550,2007,14550,206,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/mercedes-benz_s-550__430149296bx.jpg
+31920185,Mitsubishi,Pajero Wagon,2007,12800,200,Чернівці,false,https://cdn3.riastatic.com/photosnew/auto/photo/mitsubishi_pajero-wagon__434467373bx.jpg
+30243408,Volkswagen,Caravelle,2000,12500,235,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/volkswagen_caravelle__424546530bx.jpg
+31907997,BMW,X5,2010,17999,195,Чернівці,true,https://cdn2.riastatic.com/photosnew/auto/photo/bmw_x5__434162172bx.jpg
+31248624,Volkswagen,Golf GTI,2021,39600,10,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/volkswagen_golf-gti__419090559bx.jpg
+31892263,Nissan,Leaf,2018,19500,30,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/nissan_leaf__433811100bx.jpg
+31891743,Mazda,5,2009,7200,120,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/mazda_5__433795740bx.jpg
+31591030,Nissan,Leaf,2020,29000,2,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/nissan_leaf__426810072bx.jpg
+31361202,Volkswagen,Arteon,2021,54900,16,Чернівці,false,https://cdn3.riastatic.com/photosnew/auto/photo/volkswagen_arteon__425181013bx.jpg
+31827355,Volkswagen,Touareg,2016,36900,128,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/volkswagen_touareg__433591006bx.jpg
+31496715,Volkswagen,Golf VI,2008,8200,211,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/volkswagen_golf-vi__424688091bx.jpg
+31823850,Nissan,Juke,2016,14800,65,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/nissan_juke__432243760bx.jpg
+31524556,Hyundai,Veloster,2019,16500,42,Чернівці,true,https://cdn4.riastatic.com/photosnew/auto/photo/hyundai_veloster__425331354bx.jpg
+31770099,Honda,CR-V,2018,23900,154,Чернівці,false,https://cdn3.riastatic.com/photosnew/auto/photo/honda_cr-v__430942038bx.jpg
+32008989,Volkswagen,Caddy пасс.,2009,9200,210,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/volkswagen_caddy-pass__436390980bx.jpg
+31996800,Honda,CR-V,2014,18300,211,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/honda_cr-v__436285689bx.jpg
+31996145,Nissan,Qashqai,2020,23800,26,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/nissan_qashqai__436273557bx.jpg
+31905968,Toyota,Land Cruiser Prado 120,2005,14999,245,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/toyota_land-cruiser-prado-120__434110647bx.jpg
+31993514,Ford,Focus,2007,5500,288,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/ford_focus__436216461bx.jpg
+31704151,Skoda,Fabia,2016,8650,199,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/skoda_fabia__434336936bx.jpg
